@@ -1,4 +1,8 @@
 .bg-hero-image{
-    background-image: url("https://picsum.photos/1300/500");
+    background-image: url(neo.jpeg);
     background-position: center center;
+}
+
+body{
+    background-image: url(matrix.jpg);
 }
